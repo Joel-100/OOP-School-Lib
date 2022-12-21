@@ -1,6 +1,6 @@
 require './nameable'
-require './captalize_decorator'
-require './trimmer_decorator'
+require './captalize'
+require './trimmer'
 
 class Person < Nameable
   attr_reader :id
