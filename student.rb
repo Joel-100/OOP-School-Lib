@@ -9,7 +9,7 @@ class Student < Person
     @parent_permission = parent_permission
   end
 
-  def classroom = (classroom)
+  def classroom=(classroom)
     @classroom = classroom
     classroom.students.push(self) unless classroom.students.includes?(self)
   end
@@ -18,4 +18,3 @@ class Student < Person
     '¯\(ツ)/¯'
   end
 end
-
