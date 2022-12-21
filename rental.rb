@@ -9,4 +9,4 @@ class Rental
     @person.add_rental(self)
     @book.add_rental(self)
   end
-end    
+end

@@ -10,7 +10,7 @@ class Student < Person
   end
 
   def classroom = (classroom)
-    @clasroom = classroom
+    @classroom = classroom
     classroom.students.push(self) unless classroom.students.includes?(self)
   end
 
@@ -18,3 +18,4 @@ class Student < Person
     '¯\(ツ)/¯'
   end
 end
+
