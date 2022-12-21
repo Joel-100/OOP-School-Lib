@@ -190,9 +190,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@inspecta](https://github.com/Joel-100)
-- Twitter: [@djmulinde](https://twitter.com/JoelKugonza)
-- LinkedIn: [derrick-mulinde](https://www.linkedin.com/in/joel-kugonza/)
+- GitHub: [@Joel-100](https://github.com/Joel-100)
+- Twitter: [@Joel Kugonza](https://twitter.com/JoelKugonza)
+- LinkedIn: [Joel Kugonza](https://www.linkedin.com/in/joel-kugonza/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
